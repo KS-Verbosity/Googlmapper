@@ -1,5 +1,7 @@
 # An easy way to integrate Google Maps with Laravel
 
+# Verbby Version
+
 [![Latest Stable Version](https://poser.pugx.org/cornford/Googlmapper/version.png)](https://packagist.org/packages/cornford/googlmapper)
 [![Total Downloads](https://poser.pugx.org/cornford/googlmapper/d/total.png)](https://packagist.org/packages/cornford/googlmapper)
 [![Build Status](https://travis-ci.org/bradcornford/Googlmapper.svg?branch=master)](https://travis-ci.org/bradcornford/Googlmapper)
@@ -91,17 +93,29 @@ It's really as simple as using the Mapper class in any Controller / Model / File
 
 This will give you access to
 
-- [Map](#map)
-- [Location](#location)
-- [Streetview](#streetview)
-- [Marker](#marker)
-- [Information Window](#information-window)
-- [Polyline](#polyline)
-- [Polygon](#polygon)
-- [Rectangle](#rectangle)
-- [Circle](#circle)
-- [Render](#render)
-- [RenderJavascript](#renderjavascript)
+- [An easy way to integrate Google Maps with Laravel](#an-easy-way-to-integrate-google-maps-with-laravel)
+- [Verbby Version](#verbby-version)
+		- [For Laravel 5.x, check version 2.35.1](#for-laravel-5x-check-version-2351)
+		- [For Laravel 4.x, check version 1.27.0](#for-laravel-4x-check-version-1270)
+	- [Installation](#installation)
+	- [Configuration](#configuration)
+	- [Usage](#usage)
+		- [Example](#example)
+		- [Map](#map)
+				- [Map Events](#map-events)
+		- [Location](#location)
+		- [Streetview](#streetview)
+		- [Marker](#marker)
+			- [Draggable Markers](#draggable-markers)
+				- [Draggable Events](#draggable-events)
+		- [Information Window](#information-window)
+		- [Polyline](#polyline)
+		- [Polygon](#polygon)
+		- [Rectangle](#rectangle)
+		- [Circle](#circle)
+		- [Render](#render)
+		- [RenderJavascript](#renderjavascript)
+		- [License](#license)
 
 ### Example
 
